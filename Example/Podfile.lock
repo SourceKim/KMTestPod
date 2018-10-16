@@ -1,0 +1,16 @@
+PODS:
+  - KMTestPod (0.1.0)
+
+DEPENDENCIES:
+  - KMTestPod (from `../`)
+
+EXTERNAL SOURCES:
+  KMTestPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KMTestPod: 3f3cef044a8cb09c54aa4047462545f00f2bfc82
+
+PODFILE CHECKSUM: 0d49b866b9dde077c09130fb5ba3f5f464da1cb6
+
+COCOAPODS: 1.5.3

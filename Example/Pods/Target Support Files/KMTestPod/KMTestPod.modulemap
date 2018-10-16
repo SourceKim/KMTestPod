@@ -1,0 +1,6 @@
+framework module KMTestPod {
+  umbrella header "KMTestPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
